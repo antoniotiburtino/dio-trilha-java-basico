@@ -1,1 +1,0 @@
-## Aqui ficará os meus repositórios de JAVA
